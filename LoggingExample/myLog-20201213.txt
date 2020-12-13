@@ -1,0 +1,52 @@
+2020-12-13T12:29:24.2350011+01:00 0HM4VB99IM65R:00000004 [ERR] An error occured while trying to increase or retrieve the page display count. Number parameter is: 16 (d01e3e98)
+System.Collections.Generic.KeyNotFoundException: The given key '16' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at LoggingExample.Services.Counter.IncrementNumberCount(Int32 number) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Services\Counter.cs:line 23
+   at LoggingExample.Controllers.HomeController.GetDividedNumber(Int32 id) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Controllers\HomeController.cs:line 35
+2020-12-13T12:29:43.4479938+01:00 0HM4VB99IM65R:00000005 [ERR] An error occured while trying to increase or retrieve the page display count. Number parameter is: 16 (d01e3e98)
+System.Collections.Generic.KeyNotFoundException: The given key '16' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at LoggingExample.Services.Counter.IncrementNumberCount(Int32 number) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Services\Counter.cs:line 23
+   at LoggingExample.Controllers.HomeController.GetDividedNumber(Int32 id) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Controllers\HomeController.cs:line 35
+2020-12-13T12:29:44.0699126+01:00 0HM4VB99IM65R:00000006 [ERR] An error occured while trying to increase or retrieve the page display count. Number parameter is: 16 (d01e3e98)
+System.Collections.Generic.KeyNotFoundException: The given key '16' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at LoggingExample.Services.Counter.IncrementNumberCount(Int32 number) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Services\Counter.cs:line 23
+   at LoggingExample.Controllers.HomeController.GetDividedNumber(Int32 id) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Controllers\HomeController.cs:line 35
+2020-12-13T12:29:44.5092633+01:00 0HM4VB99IM65R:00000007 [ERR] An error occured while trying to increase or retrieve the page display count. Number parameter is: 16 (d01e3e98)
+System.Collections.Generic.KeyNotFoundException: The given key '16' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at LoggingExample.Services.Counter.IncrementNumberCount(Int32 number) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Services\Counter.cs:line 23
+   at LoggingExample.Controllers.HomeController.GetDividedNumber(Int32 id) in D:\20486C\Demo\20486C-Mod10-Demo-Lesson3\LoggingExample\Controllers\HomeController.cs:line 35
+2020-12-13T12:31:03.0639855+01:00 0HM4VBA9A90R2:00000001 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:31:06.4376271+01:00 0HM4VBA9A90R2:00000002 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:31:07.0970496+01:00 0HM4VBA9A90R2:00000003 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:31:07.3515349+01:00 0HM4VBA9A90R2:00000004 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:31:07.5642139+01:00 0HM4VBA9A90R2:00000005 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:31:07.7578067+01:00 0HM4VBA9A90R2:00000006 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:31:07.9498644+01:00 0HM4VBA9A90R2:00000007 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:31:08.1529497+01:00 0HM4VBA9A90R2:00000008 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:25.8125707+01:00 0HM4VBA9A90R3:00000001 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:26.3060425+01:00 0HM4VBA9A90R3:00000002 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:26.5994701+01:00 0HM4VBA9A90R3:00000003 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:26.8516083+01:00 0HM4VBA9A90R3:00000004 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:27.0859242+01:00 0HM4VBA9A90R3:00000005 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:27.2995051+01:00 0HM4VBA9A90R3:00000006 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:27.5129788+01:00 0HM4VBA9A90R3:00000007 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:27.7296261+01:00 0HM4VBA9A90R3:00000008 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:27.9294891+01:00 0HM4VBA9A90R3:00000009 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:28.1418807+01:00 0HM4VBA9A90R3:0000000A [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:28.3448049+01:00 0HM4VBA9A90R3:0000000B [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:28.5553727+01:00 0HM4VBA9A90R3:0000000C [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:28.7509009+01:00 0HM4VBA9A90R3:0000000D [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:28.9476381+01:00 0HM4VBA9A90R3:0000000E [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:29.1622693+01:00 0HM4VBA9A90R3:0000000F [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:29.3636356+01:00 0HM4VBA9A90R3:00000010 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:29.5696570+01:00 0HM4VBA9A90R3:00000011 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:29.7851535+01:00 0HM4VBA9A90R3:00000012 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:30.0030434+01:00 0HM4VBA9A90R3:00000013 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:30.2193085+01:00 0HM4VBA9A90R3:00000014 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:30.4253106+01:00 0HM4VBA9A90R3:00000015 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:30.6431456+01:00 0HM4VBA9A90R3:00000016 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:30.8480068+01:00 0HM4VBA9A90R3:00000017 [ERR] GetDividedNumber - Success (e8890a0d)
+2020-12-13T12:32:31.0231334+01:00 0HM4VBA9A90R3:00000018 [ERR] GetDividedNumber - Success (e8890a0d)
